@@ -1,0 +1,11 @@
+<p style="text-align: justify;"><span style="color: #808080; font-size: 12pt;"><strong><span style="background-color: #ffffff;"><span style="color: #292828;">Vrijeme je da se granice prevaziðu!</span> Sa snažnim kontrolerom, posljednji SATA III 6Gb/s interfejsom i kvalitetnim multi-level æelijskom (MLC) NAND flash memorijom, Transcend's SSD360 omoguæava nevjerovatne brzine prenosa: do 560MB/s read i 500MB/s write, time ubrzavajuæi boot up sistema i brzine oèitavanja aplikacija i video igara. Zahvaljujuæi punoj podr&scaron;ci SATA Device Sleep Mode (DevSleep), SSD 360 omoguæava maskimalnu u&scaron;tededu energije (do 90%) kada su u pitanju baterije za laptop raèunare. Da, SSD360S <span style="color: #292828;">podržavaju i laptop raèunare</span>!&nbsp;Uz SSD360 možete uživati koristeæi raèunar bez prevelikog lag-a.&nbsp;</span></strong></span><br /><span style="font-size: 12pt;"><br /><span style="color: #808080; font-size: 14pt;"><strong>SPECIFIKACIJE</strong></span></span></p>
+<hr />
+<p><span style="font-size: 12pt;"><span style="color: #999999;"><strong>&nbsp; Kapacitet:</strong></span>&nbsp;320GB</span></p>
+<p><span style="font-size: 12pt;"><span style="color: #999999;"><strong>&nbsp; Kompatibilnost:&nbsp;</strong></span>Windows 7/8/10:&nbsp;Linux Kernel 2.6.31 i noviji</span></p>
+<p><span style="font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong><span style="color: #c74e4e;">Kompatibilan sa desktop i laptop raèunarima!</span></strong></span></p>
+<p><span style="font-size: 12pt;"><span style="color: #999999;"><strong>&nbsp; Interface:&nbsp;</strong></span>SATA 6.0GB/s (SATA III)</span></p>
+<p><span style="font-size: 12pt;"><span style="color: #999999;"><strong>&nbsp; Velièina (inch):&nbsp;</strong></span>2.5"<br /><br /></span></p>
+<p><span style="font-size: 14pt; color: #808080;"><strong>CIJENA</strong></span></p>
+<hr />
+<p><span style="font-size: 12pt;"><span style="color: #808080;"><strong>&nbsp; Cijena za gotovinu:</strong></span> <span style="color: #f05b5b;"><strong>169.- KM</strong></span></span></p>
+<p><span style="font-size: 12pt;"><span style="color: #808080;"><strong>&nbsp; Garancija:</strong></span> <span style="color: #f05b5b;"><strong>DVIJE GODINE!</strong></span></span></p>
